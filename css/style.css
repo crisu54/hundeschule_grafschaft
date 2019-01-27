@@ -95,3 +95,34 @@ h1 {
 	border: 1px dashed red;
 
 }
+
+address{
+	background-color:gray;
+	height:200px;
+}
+.vier_spalten{
+	width:22%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float:left;
+}
+
+form div {
+	width:80%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float:left;
+}
+form input[type=text] {
+	width:100%;
+}
+form input[type=password] {
+	width:100%;
+}
+form input[type=submit] {
+	height:200%;
+}
+
+form div.submit {
+	width:15%;
+}
