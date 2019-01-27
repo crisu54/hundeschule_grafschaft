@@ -39,7 +39,7 @@ img.logo {
 	margin-top:15px;
 	margin-left:50px;
 }
-a {
+nav a {
 	color:#fff;
 	margin:15px;
 	padding-top:20px;
@@ -74,4 +74,24 @@ ul {
 h1 {
 	font-size:25px;
 	background-color:gray;
+}
+.drei_spalten{
+	width:31%;
+	margin-left: 1%;
+	margin-right: 1%;
+	float:left;
+}
+.clear_left {
+	clear:left;
+}
+.spalte{
+	width:100%;
+}
+.rand{
+	text-align: right;	
+}
+
+.content a {
+	border: 1px dashed red;
+
 }
