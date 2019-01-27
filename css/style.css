@@ -58,6 +58,7 @@ ul {
 .content {
 }
 .whitetransparent {
+	margin: 0px 20% 0px 20%;
 	opacity: .8;
 	background-color: white;
 }
