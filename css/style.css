@@ -138,27 +138,37 @@ h2{
 	width:100%;
 	border: 1px dashed red;		
 	float:left;
-	background-color:#D7FFFF;
+	background-color:#E7E7E7;
 
 }
 
+.B_rechts{
+	height:100px;
+	float:left;
+	padding:2%;
+	
+}
 
 .text_links{
-	width:63%;
+	width:58%;
 	
 	padding-left:2%;
 	float:left;
 
 }
 	
-	.text_rechts{
+.text_rechts{
 	margin:0pxp;
 	padding-left:4%;
-	width: 30%;
+	width: 35%;
 	float:left;
+	background-color:#D9EBDE;
+}
 
-		
-
+.B_unten{
+	height:260px;
+	padding-left:2%;
+	float:left;
 }
 
 
