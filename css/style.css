@@ -143,11 +143,20 @@ h2{
 }
 
 .B_rechts{
-	height:100px;
+
 	float:left;
 	padding:2%;
+		background-color:#D9EBDE;
 	
 }
+.cws img(
+	height:100px;
+)
+
+.cb img(
+		height:260px;
+)
+
 
 .text_links{
 	width:58%;
@@ -158,16 +167,16 @@ h2{
 }
 	
 .text_rechts{
-	margin:0pxp;
-	padding-left:4%;
+	margin:2%;
+	padding-left:1%;
 	width: 35%;
 	float:left;
 	background-color:#D9EBDE;
 }
 
 .B_unten{
-	height:260px;
-	padding-left:2%;
+
+	padding-right:2%;
 	float:left;
 }
 
