@@ -143,20 +143,12 @@ h2{
 }
 
 .B_rechts{
-
+	
 	float:left;
 	padding:2%;
 		background-color:#D9EBDE;
 	
 }
-.cws img(
-	height:100px;
-)
-
-.cb img(
-		height:260px;
-)
-
 
 .text_links{
 	width:58%;
@@ -175,10 +167,19 @@ h2{
 }
 
 .B_unten{
-
+	
 	padding-right:2%;
 	float:left;
 }
+
+cws{
+	height:100px;
+}
+
+cb{
+	height:260px;
+}
+
 
 
 .address{
