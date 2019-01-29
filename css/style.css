@@ -215,6 +215,17 @@ img.B_rechts{
 	float:left;
 }
 
+.hspalte_training{
+	border:1px solid red;
+	width:100%;
+	background-color:georgian;
+	clear:both;
+}
+section{
+	margin:3% 0 3 0;
+	padding-left2%;
+}
+
 form div {
 	width:80%;
 	margin-left: 1%;
