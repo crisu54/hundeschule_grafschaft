@@ -151,29 +151,22 @@ h2{
 
 }
 
-.block_links,
-.block_rechts{
-	width:42%;
-	margin:3%;
-	padding-left:2%;
+.zwei_block_tb{
+	width:100%;
 	float:left;
-	background-color:#e5e0df;
+	background-color:#E7E7E7;
 
 }
-	
+
 
 img.B_rechts{
 	width:98%;
+	margin: 1.5%;
+
 }
 
 
-.B_rechts{
-	
-	float:left;
-	padding:2%;
-		background-color:#D9EBDE;
-	
-}
+
 
 .text_links{
 	width:58%;
@@ -237,29 +230,19 @@ hr.linie_kurz{
 		
 }
 
-.training{
-	width:100%;
+.training figure{
+	width:20.5%;
 	border:1px solid red;
 	background-color:gray;
-	
-}
-figure.bildwelpe{
-	width:20%
-	border:1px solid red;
-	
-}
-
-figure.bildwelpe img,
-figure.bildJhund img,
-figure.bildGrund img,
-figure.bildProblem img{
-	width:22%;
 	float:left;
+	margin:2%;
 	
-	
-{
-	
+}
 
+.training img{
+	width:100%
+}
+	
 section{
 	margin:3% 0 3 0;
 	padding-left2%;
@@ -287,6 +270,31 @@ form div.submit {
 footer{
 	background-color:black;
 	height:40px;
+
+}
+
+.bildHu{
+	width:99%;
+	padding0px;
+	margin:0px;
+}
+.block_links,
+.block_rechts{
+	width:42%;
+	margin:3%;
+	padding-left:2%;
+	float:left;
+
+
+}
+
+.block_links_li,
+.block_rechts_tb{
+	width:42%;
+	margin:3%;
+	padding-left:2%;
+	float:left;
+
 
 }
 
