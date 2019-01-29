@@ -146,7 +146,6 @@ h2{
 
 .zwei_block{
 	width:100%;
-	border: 1px dashed red;		
 	float:left;
 	background-color:#E7E7E7;
 
@@ -216,11 +215,51 @@ img.B_rechts{
 }
 
 .hspalte_training{
-	border:1px solid red;
 	width:100%;
-	background-color:georgian;
+	background-color:#e1fbb3;
 	clear:both;
 }
+
+.welbe,
+.junghunde,
+.grundgehorsam,
+.beschäftigung,
+.sportgruppe,
+.poroblemhunde{
+margin: 20px;	
+}
+
+
+
+hr.linie_kurz{
+	width:20%;
+	margin-left: 2%;
+		
+}
+
+.training{
+	width:100%;
+	border:1px solid red;
+	background-color:gray;
+	
+}
+figure.bildwelpe{
+	width:20%
+	border:1px solid red;
+	
+}
+
+figure.bildwelpe img,
+figure.bildJhund img,
+figure.bildGrund img,
+figure.bildProblem img{
+	width:22%;
+	float:left;
+	
+	
+{
+	
+
 section{
 	margin:3% 0 3 0;
 	padding-left2%;
