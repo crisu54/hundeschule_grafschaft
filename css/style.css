@@ -298,12 +298,50 @@ footer{
 	color:black;
 }
 
-td,th{
-width: 99%;
-border: 1px solid black;
-border-color:red;
-border-collapse: separate;
+/*Tablelle*/
+
+table, td, th{
+   border:1px solid gray;
 }
+
+table{
+    width:100%;
+    margin:0px auto;        
+    background-color:silver;
+    border-spacing:0px;       
+    border-collapse:collapse;        /* Rahmen fallen zusammen */
+}
+
+col.kurse{
+    width:150px;
+    background-color:#c7f7d2;
+    text-align:left;
+       
+}
+
+thead{
+    background-color:gray;
+}
+tfoot{
+    background-color:black;
+    color:white;
+}
+
+th{
+    height:20px;
+    text-align: left;
+    font-size: 20px;
+    border:1px solid gray;
+    color:white;
+td{
+    text-align:left;
+}
+img {
+    width:100px;
+}
+
+
+
 
 
 .clearfix:after{
