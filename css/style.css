@@ -374,6 +374,7 @@ label{
 }
 .auto{
         width:auto;
+				margin:0;
 }
 input#vorname,
 input#nachname,
