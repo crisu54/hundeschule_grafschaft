@@ -28,7 +28,7 @@
 		<div class="content"><!--hIER FÄNT MEIN CONTENT AN-->
 			<section class="whitetransparent">
 				<div class="clear_left"></div>
-		<FORM ACTION="http://jkorpela.fi/cgi-bin/echo.cgi"METHOD="POST">
+		<FORM ACTION="http://jkorpela.fi/cgi-bin/echo.cgi" METHOD="POST">
 			<input type="hidden" name="empfaenger" value="steph.fischer@outlook.de">
 			<fieldset>
 			 <legend>Kontaktdaten</legend>
@@ -46,12 +46,12 @@
 					<input type="text" name="nachname" id="nachname">
 				</div>
 					<div>
-					<label for="absender">E-Mail-Adresse:</label>
-					<input type="email" id="absender" name="absender">
+					<label for="email">E-Mail</label>
+					<input type="email" id="email" name="email">
 				</div>
 						<div>
-					<label for="absender">Telefonnr:</label>
-					<input type="email" id="absender" name="absender">
+					<label for="tel">Tel</label>
+					<input type="text" id="tel" name="tel">
 				</div>
 					<div>
 					<label for="passwort">Passwort:</label>
@@ -64,16 +64,16 @@
 					<label class="auto">Kontakt erwünscht:</label>
 				</div>
 					<div>
-					<label for="email">E-Mail</label>
-					<input type="checkbox" checked name="email" id="email">
+					<label for="email">E-Mail_flag</label>
+					<input type="checkbox" checked name="checkbox" id="checkbox">
 				</div>
 					<div>
-					<label for="telefon">Telefon</label>
-					<input type="checkbox" name="telefon" id="telefon">
+					<label for="tel_flag">Tel_flag</label>
+					<input type="checkbox" name="tel_flag" id="tel_flag">
 				</div>
 					<div>
-					<label for="telefon">Persönlich</label>
-					<input type="checkbox" name="persönlich" id="persönlich">
+					<label for="persoenlich">Persoenlich</label>
+					<input type="checkbox" name="persoenlich" id="persoenlich">
 				</div>
 					<div>
 					<label for="nachricht">Nachricht:</label>
@@ -81,14 +81,14 @@
 				</div>
 					<div>
 						<label for="kurs">Unsere Kurse:</label>
-					<select id="wform_21elements" name="wform_21elements">
-						<option id="wform_24_option0" value ="(Thema auswählen)" select="selected">(Thema auswählen</option>
-						<option id="wform_24_option1" value ="Training">(Training</option>
-						<option id="wform_24_option2" value ="Probrstunde">(Probrstunde</option>
-						<option id="wform_24_option3" value ="Seminaranmeldung">(Seminaranmeldung></option>
-						<option id="wform_24_option4" value ="Allgemeine Anfrage">(Allgemeine Anfrage></option>
-						<option id="wform_24_option5" value ="Feedback">(Feedback</option>
-						<option id="wform_24_option6" value ="Sonstige">(Sonstige</option>
+					<select id="kurs" name="kurs">
+						<option id="wform_24_option0" value="(Thema auswählen)" selected="selected">(Thema auswählen)</option>
+						<option id="wform_24_option1" value="Training">Training</option>
+						<option id="wform_24_option2" value="Probrstunde">Probrstunde</option>
+						<option id="wform_24_option3" value="Seminaranmeldung">Seminaranmeldung</option>
+						<option id="wform_24_option4" value="Allgemeine Anfrage">Allgemeine Anfrage</option>
+						<option id="wform_24_option5" value="Feedback">Feedback</option>
+						<option id="wform_24_option6" value="Sonstige">Sonstige</option>
 					</select>			
 				</div>
 					<div>
@@ -106,7 +106,7 @@
 
 	
 
-		</div>
+		
 
 			</section>	
 		</div><!--hIER endet MEIN CONTENT -->
