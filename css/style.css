@@ -414,7 +414,9 @@ input[type="submit"], input[type="reset"]{
 input[type="submit"]:hover, input[type="reset"]:hover{
 		background-image:linear-gradient(to top, rgb(250,250,250), rgb(204,204,204));
 }
-
+input.send{
+	margin-left: 130px;
+}
 button{
 		background-color:red;
 		width:20px;
