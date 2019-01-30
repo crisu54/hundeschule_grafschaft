@@ -209,7 +209,7 @@ height:260px;
 
 .address{
 background-color:gray;
-height:200px;
+
 }
 .vier_spalten{
 width:22%;
@@ -256,7 +256,7 @@ width:100%
 
 section{
 margin:3% 0px 3px 0px;
-padding-left:2%;
+
 }
 
 form div {
@@ -388,7 +388,8 @@ label{
 }
 input#vorname,
 input#nachname,
-input#passwort{
+input#passwort,
+input#tel{
 		width: auto;
 }
 input,select,textarea{
