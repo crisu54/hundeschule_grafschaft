@@ -44,10 +44,10 @@ nav a {
 	margin:15px;
 	padding-top:20px;
 }
-li {
+nav li {
 	display:inline;
 	margin-top:80px;
-	color:#ffffff;
+	nav
 }	
 ul {
 	margin:0px;
@@ -284,8 +284,6 @@ footer{
 	margin:3%;
 	padding-left:2%;
 	float:left;
-
-
 }
 
 .block_links_li,
@@ -294,9 +292,19 @@ footer{
 	margin:3%;
 	padding-left:2%;
 	float:left;
-
-
 }
+
+.list{
+	color:black;
+}
+
+td,th{
+width: 99%;
+border: 1px solid black;
+border-color:red;
+border-collapse: separate;
+}
+
 
 .clearfix:after{
         content:".";
