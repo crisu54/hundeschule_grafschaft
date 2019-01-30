@@ -34,8 +34,9 @@ nav {
 overflow-x:hidden;
 background-color:black;
 margin:0px;
-padding:20px 0px 20px 50%;
+padding:20px 0px 20px 0px;
 font-size:18px;
+text-align:right;
 }
 
 img.logo {
@@ -45,13 +46,20 @@ margin-left:50px;
 
 nav a {
 color:#fff;
-margin:15px;
+padding:15px;
 padding-top:20px;
+padding-bottom:20px
+
 }
 
 nav li {
 display:inline;
 margin-top:80px;
+}
+
+nav a:hover{
+border-color: blue;
+	
 }	
 
 ul {
