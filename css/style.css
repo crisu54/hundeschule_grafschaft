@@ -1,64 +1,64 @@
 html, body {
-height:100%;
-background-image:url(../bilder/hundewiese.jpg);
-padding:0px;
-margin:0px;
+		height:100%;
+		background-image:url(../bilder/hundewiese.jpg);
+		padding:0px;
+		margin:0px;
 }
 body {
-margin:0;
-padding:0;
-font-family:'Source Sans Pro', sans-serif;
-font-size:14px;
+		margin:0;
+		padding:0;
+		font-family:'Source Sans Pro', sans-serif;
+		font-size:14px;
 }
 h1 {
-font-size:20px;
+		font-size:20px;
 }
 #wrapper {
-background-color:white;
-padding:0px;
-margin:0px auto;
-padding:0px 0px 0px 0px;
-box-shadow:0px 0px 10px 5px rgba(0,0,0,.2);
+		background-color:white;
+		padding:0px;
+		margin:0px auto;
+		padding:0px 0px 0px 0px;
+		box-shadow:0px 0px 10px 5px rgba(0,0,0,.2);
 }
 
 header {
-width:100%;
-height:200px;
-margin-top:0px;
-margin:0px;
-padding:0px;
-background-color:#c8e3d0;
+		width:100%;
+		height:200px;
+		margin-top:0px;
+		margin:0px;
+		padding:0px;
+		background-color:#c8e3d0;
 }
 
 nav {
-overflow-x:hidden;
-background-color:black;
-margin:0px;
-padding:20px 0px 20px 0px;
-font-size:18px;
-text-align:right;
+		overflow-x:hidden;
+		background-color:black;
+		margin:0px;
+		padding:20px 0px 20px 0px;
+		font-size:18px;
+		text-align:right;
 }
 
 img.logo {
-margin-top:15px;
-margin-left:50px;
+		margin-top:15px;
+		margin-left:50px;
 }
 
 nav a {
-color:#fff;
-padding:15px;
-padding-top:20px;
-padding-bottom:20px
+		color:#fff;
+		padding:15px;
+		padding-top:20px;
+		padding-bottom:20px
 
 }
 
 nav li {
-display:inline;
-margin-top:80px;
+		display:inline;
+		margin-top:80px;
 }
 
 nav a:hover{
-background-color: #07440a;
+	background-color: #07440a;
 	
 }
 nav a.aktive{
@@ -66,173 +66,173 @@ nav a.aktive{
 	}
 
 ul {
-margin:0px;
+		margin:0px;
 }
 
 .fullwidth {
-width:100%;
+		width:100%;
 }
 
 .content {
-margin: 0px;
+		margin: 0px;
 }
 
 .whitetransparent {
-margin: 0px 20% 0px 20%;
+		margin: 0px 20% 0px 20%;
 /*opacity: 0.5;*/
-background-color: rgba(255, 255, 255, 0.9);
+		background-color: rgba(255, 255, 255, 0.9);
 }
 
 .inhalt {
-width:960px;
-height:400px;
-background-color:yellow;
+		width:960px;
+		height:400px;
+		background-color:yellow;
 }
 
 .h1 {
-padding-top: 10px;
+		padding-top: 10px;
 }
 
 h1 {
-font-size:25px;
-background-color:gray;
-padding-left:2%;
+		font-size:25px;
+		background-color:gray;
+		padding-left:2%;
 }
 
 h2{
-padding-left:2%;
+		padding-left:2%;
 }
 
 .drei_spalten{
-width:31%;
-margin-left: 1%;
-margin-right: 1%;
-float:left;
+		width:31%;
+		margin-left: 1%;
+		margin-right: 1%;
+		float:left;
 }
 
 
 .clear_left {
-clear:left;
+		clear:left;
 }
 .spalte{
-width:100%;
+		width:100%;
 }
 .rand{
-text-align: right;	
-}
-
-.content a {
-border: 1px dashed red;
+		text-align: right;	
 }
 
 .zwei_spaltig{
-width:98%;
-margin-top:20px;
-margin-left: 1%;
-margin-right: 1%;
-float:left;
+		width:98%;
+		margin-top:20px;
+		margin-left: 1%;
+		margin-right: 1%;
+		float:left;
 }
 .drei_spalten img.links,
 .drei_spalten img.mitte,
 .drei_spalten img.rechts {
-width:50%;
-float:left;
-margin:10px;
+		width:50%;
+		float:left;
+		margin:10px;
 }
 
 .sp_tierheim{
-float:right;
-width:calc(50% - 20px);
-
+		float:right;
+		width:calc(50% - 20px);
 }
 
-
-
 .bild_links{
-width:64%;
-padding-right: 2%;
+		width:64%;
+		padding-right: 2%;
 }
 
 .bild_rechts,
 .bild_rechts{
-width:33%;
+		width:33%;
 }
 
 .zwei_spalten{
-width:100%;
-border: 1px dashed red;		
-float:left;
-background-color:#E7E7E7;
+		width:100%;
+		border: 1px dashed red;		
+		float:left;
+		background-color:#E7E7E7;
 
 }
 
 .zwei_block{
-width:100%;
-float:left;
-background-color:#E7E7E7;
+		width:100%;
+		float:left;
+		background-color:#E7E7E7;
 
 }
 
 .zwei_block_tb{
-width:100%;
-float:left;
-background-color:#E7E7E7;
+		width:100%;
+		float:left;
+		background-color:#E7E7E7;
 
 }
 
 
 img.B_rechts{
-width:98%;
-margin: 1.5%;
+		width:98%;
+		margin: 1.5%;
+}
 
+a.gruppeW,
+a.gruppeJ,
+a.gruppeG,
+a.gruppeB,
+a.gruppeS,
+a.gruppeP{
+		line-height: 30px;
+		font-size: 18px;
 }
 
 
-
-
 .text_links{
-width:58%;
-padding-left:2%;
-float:left;
+		width:58%;
+		padding-left:2%;
+		float:left;
 
 }
 
 .text_rechts{
-margin:2%;
-padding-left:1%;
-width: 35%;
-float:left;
-background-color:#D9EBDE;
+		margin:2%;
+		padding-left:1%;
+		width: 35%;
+		float:left;
+		background-color:#D9EBDE;
 }
 
 .B_unten{
-padding-right:2%;
-float:left;
+		padding-right:2%;
+		float:left;
 }
 
 .cws img{
-height:100px;
+		height:100px;
 }
 
 .cb img{
-height:260px;
+		height:260px;
 }
 
 .address{
-background-color:gray;
+		background-color:gray;
 
 }
 .vier_spalten{
-width:22%;
-margin-left: 1%;
-margin-right: 1%;
-float:left;
+		width:22%;
+		margin-left: 1%;
+		margin-right: 1%;
+		float:left;
 }
 
 .hspalte_training{
-width:100%;
-background-color:#e1fbb3;
-clear:both;
+		width:100%;
+		background-color:#e1fbb3;
+		clear:both;
 }
 
 .welbe,
@@ -241,124 +241,124 @@ clear:both;
 .beschäftigung,
 .sportgruppe,
 .poroblemhunde{
-margin: 20px;	
+		margin: 20px;	
 }
 
 
 
 hr.linie_kurz{
-width:20%;
-margin-left: 2%;
+		width:20%;
+		margin-left: 2%;
 
 }
 
 .training figure{
-width:20.5%;
-border:1px solid red;
-background-color:gray;
-float:left;
-margin:2%;
+		width:20.5%;
+		border:1px solid red;
+		background-color:gray;
+		float:left;
+		margin:2%;
 
 }
 
 .training img{
-width:100%
+		width:100%
 }
 
 section{
-margin:3% 0px 3px 0px;
+		margin:3% 0px 3px 0px;
 
 }
 
 form div {
-width:80%;
-margin-left: 1%;
-margin-right: 1%;
-float:left;
+		width:80%;
+		margin-left: 1%;
+		margin-right: 1%;
+		float:left;
 }
-form input[type=text] {
-width:100%;
+		form input[type=text] {
+		width:100%;
 }
-form input[type=password] {
-width:100%;
+		form input[type=password] {
+		width:100%;
 }
-form input[type=submit] {
-height:200%;
+		form input[type=submit] {
+		height:200%;
 }
-form div.submit {
-width:15%;
+		form div.submit {
+		width:15%;
 }
 
 footer{
-background-color:black;
-height:40px;
+		background-color:black;
+		height:40px;
 
 }
 
 .bildHu{
-width:99%;
-padding:0px;
-margin:0px;
+		width:99%;
+		padding:0px;
+		margin:0px;
 }
 .block_links,
 .block_rechts{
-width:42%;
-margin:3%;
-padding-left:2%;
-float:left;
+		width:42%;
+		margin:3%;
+		padding-left:2%;
+		float:left;
 }
 
 .block_links_li,
 .block_rechts_tb{
-width:42%;
-margin:3%;
-padding-left:2%;
-float:left;
+		width:42%;
+		margin:3%;
+		padding-left:2%;
+		float:left;
 }
 
 .list{
-color:black;
+		color:black;
 }
 
 /*Tablelle*/
 
 table, td, th{
-border:1px solid gray;
+		border:1px solid gray;
 }
 
 table{
-width:100%;
-margin:0px auto;        
-background-color:silver;
-border-spacing:0px;       
-border-collapse:collapse;        /* Rahmen fallen zusammen */
+		width:100%;
+		margin:0px auto;        
+		background-color:silver;
+		border-spacing:0px;       
+		border-collapse:collapse;        /* Rahmen fallen zusammen */
 }
 
 col.kurse{
-width:30%;
-background-color:#c7f7d2;
-text-align:left;
+		width:30%;
+		background-color:#c7f7d2;
+		text-align:left;
 	 
 }
 
 thead{
-background-color:gray;
+		background-color:gray;
 }
 tfoot{
-background-color:black;
-color:white;
+		background-color:black;
+		color:white;
 }
 
 th{
-height:20px;
-text-align: left;
-font-size: 16px;
-border:1px solid gray;
-color:white;
+		height:20px;
+		text-align: left;
+		font-size: 16px;
+		border:1px solid gray;
+		color:white;
 }
 
 td{
-text-align:left;
+		text-align:left;
 }
 
 .clearfix:after{
@@ -371,7 +371,7 @@ text-align:left;
 
 /*hier beginnt mein Kontaktformular*/
 form{
-background-color:#c0e4cb;
+		background-color:#c0e4cb;
 		
 }
 fieldset{
@@ -397,10 +397,10 @@ label{
 		width:auto;
 		margin:0;
 }
-input#vorname,
-input#nachname,
-input#passwort,
-input#tel{
+		input#vorname,
+		input#nachname,
+		input#passwort,
+		input#tel{
 		width: auto;
 }
 input,select,textarea{
@@ -426,7 +426,7 @@ input[type="submit"]:hover, input[type="reset"]:hover{
 		background-image:linear-gradient(to top, rgb(250,250,250), rgb(204,204,204));
 }
 input.send{
-	margin-left: 130px;
+		margin-left: 130px;
 }
 button{
 		background-color:red;
@@ -438,8 +438,8 @@ button{
 }
 
 h4.mapText,
-iframe{
-margin-left: 20px;
+		iframe{
+		margin-left: 20px;
 
 }
 
